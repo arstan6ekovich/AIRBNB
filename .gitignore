@@ -1,0 +1,35 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyd
+*.sqlite3
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+
+# Environment variables
+.env
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+out/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
